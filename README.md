@@ -5,6 +5,10 @@ I learned about variables, constants, strings, integers, double and boolean data
 ## Day 2
 I learned about arrays, sets, tuples, dictionary and enumerations.
 
+## Day 3
+I learned about operators and conditions. \
+Operators include arithmetic operators, comparision operators, conditional operators, range operators, switch operator and ternary operator. \
+I also explored combining conditions, compound assignment operator.
 # Contact 
-- Twitter : [@ankur\_codes](https://twitter.com/ankur_codes) \
-- Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
+Twitter : [@ankur\_codes](https://twitter.com/ankur_codes) \
+Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
