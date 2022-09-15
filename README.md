@@ -11,7 +11,7 @@ Operators include arithmetic operators, comparision operators, conditional opera
 I also explored combining conditions, compound assignment operator.
 
 ## Day 4
-I learned about loops in swift. I learned to use for loop, why to use _ in for loop, while loop, repeat while loop, skip an entry in loop, exit loop , exit multiple loops and more.
+I learned about loops in swift. I learned to use for loop, why to use _ in for loop, while loop, repeat while loop, skip an entry in loop, exit a loop , exit multiple loops and more.
 # Contact 
 Twitter : [@ankur\_codes](https://twitter.com/ankur_codes) \
 Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
