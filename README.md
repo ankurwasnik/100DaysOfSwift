@@ -15,6 +15,11 @@ I learned about loops in swift. I learned to use for loop, why to use _ in for l
 
 ## Day 5
 I learned about functions today. 
+
+## Day 6
+Today, I learned about basics of closure which are one of the most challenging part of swift programming. But, once you get in, it becomes easier to write closure and using them in everyday code.
+## Day 7
+ I learned about closures extending their functionality and writing them in shorthand as possible.
 # Contact 
 Twitter : [@ankur\_codes](https://twitter.com/ankur_codes) \
 Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
