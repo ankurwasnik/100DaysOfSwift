@@ -20,6 +20,14 @@ I learned about functions today.
 Today, I learned about basics of closure which are one of the most challenging part of swift programming. But, once you get in, it becomes easier to write closure and using them in everyday code.
 ## Day 7
  I learned about closures extending their functionality and writing them in shorthand as possible.
+
+ ## Day 8
+ I learned about structs. How to create struct, what are property observer(willSet & didSet), computed properties, methods and mutating methods. \
+    - Struct is basically the user defined data structure defined with properties & methods to provide functionality.
+    - In swift, struct properties can take value depending upon other properties. they are called computed properties.
+    - Property observer are functionalities that will be executed before/after modifying the property value.
+        - didSet()
+
 # Contact 
-Twitter : [@ankur\_codes](https://twitter.com/ankur_codes) \
+Twitter : [@ankur_codes](https://twitter.com/ankur_codes) \
 Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
