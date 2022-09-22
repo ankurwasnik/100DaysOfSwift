@@ -27,6 +27,14 @@ Today, I learned about basics of closure which are one of the most challenging p
     - In swift, struct properties can take value depending upon other properties. they are called computed properties.
     - Property observer are functionalities that will be executed before/after modifying the property value.
         - didSet()
+        - willSet()
+## Day 9
+I learnt about more advanced fundamental concepts of struct. This includes getter & setter, access control and static properties.
+- Getter & setter 
+    - Getter & setter provide ease to assign and read value of struct properties.
+- Access control
+    - It is very important for programmer to decide which properties should be accessed from outside the struct program. That is, we should not allow important/critical values to be modified by external program directly. We should have access to properties controlled.
+    - By default, properties are public i.e, other part of code can modify them. But, we can control access to properties using **private** keyword.
 
 # Contact 
 Twitter : [@ankur_codes](https://twitter.com/ankur_codes) \
