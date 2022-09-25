@@ -35,6 +35,13 @@ I learnt about more advanced fundamental concepts of struct. This includes gette
 - Access control
     - It is very important for programmer to decide which properties should be accessed from outside the struct program. That is, we should not allow important/critical values to be modified by external program directly. We should have access to properties controlled.
     - By default, properties are public i.e, other part of code can modify them. But, we can control access to properties using **private** keyword.
+## Day10
+I learnt about classes and inheritance. \
+    - How to create custom class
+    - Class inheritance
+    - Method & Property overridings 
+    - Final classes (blueprint that doesn't change implementaion)
+    - Classes are reference type, not value type
 
 # Contact 
 Twitter : [@ankur_codes](https://twitter.com/ankur_codes) \
