@@ -37,11 +37,11 @@ I learnt about more advanced fundamental concepts of struct. This includes gette
     - By default, properties are public i.e, other part of code can modify them. But, we can control access to properties using **private** keyword.
 ## Day10
 I learnt about classes and inheritance. \
-    - How to create custom class
-    - Class inheritance
-    - Method & Property overridings 
-    - Final classes (blueprint that doesn't change implementaion)
-    - Classes are reference type, not value type
+- How to create custom class
+- Class inheritance
+- Method & Property overridings 
+- Final classes (blueprint that doesn't change implementaion)
+- Classes are reference type, not value type
 
 ## Day 11
 I learned about protocols and extensions. 
