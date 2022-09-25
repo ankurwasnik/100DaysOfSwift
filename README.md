@@ -45,19 +45,19 @@ I learnt about classes and inheritance. \
 
 ## Day 11
 I learned about protocols and extensions. 
-    - Protocol 
-        - Protocol are blueprint which tells what properties and methods will a data type confront to.
-        - Protocol do not contains method implementation.
-        - They are somewhat similar to interfaces in Java programming language.
-    - Extension
-        - Extension are used to add functionality to the existing data types.
-        - You can add computed properties and method implementations in extensions.
-    - Protocol Extensiions 🚀
-        - This is exiting part of which combines concepts of protocol and extensions.
-        - Protocol extensions means adding functionalities(computed properties and method implementations) for the methods we specify in protocols. 
-        - Also, it gets available to all the data types which confronts to protocols which are extended immediately.
-        - This makes life easy
-        - Using protocols and extension for writing programs is also knowsn as POP(protocol oriented programming).
+- Protocol 
+    - Protocol are blueprint which tells what properties and methods will a data type confront to.
+    - Protocol do not contains method implementation.
+    - They are somewhat similar to interfaces in Java programming language.
+- Extension
+    - Extension are used to add functionality to the existing data types.
+    - You can add computed properties and method implementations in extensions.
+- Protocol Extensiions 🚀
+    - This is exiting part of which combines concepts of protocol and extensions.
+    - Protocol extensions means adding functionalities(computed properties and method implementations) for the methods we specify in protocols. 
+    - Also, it gets available to all the data types which confronts to protocols which are extended immediately.
+    - This makes life easy
+    - Using protocols and extension for writing programs is also knowsn as POP(protocol oriented programming).
 # Contact 
 Twitter : [@ankur_codes](https://twitter.com/ankur_codes) \
 Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
