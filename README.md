@@ -58,6 +58,32 @@ I learned about protocols and extensions.
     - Also, it gets available to all the data types which confronts to protocols which are extended immediately.
     - This makes life easy
     - Using protocols and extension for writing programs is also knowsn as POP(protocol oriented programming).
+
+## Day 12 
+**Review Day**
+Following topics are reviewed today
+- Variables and constants
+- Types of data
+- Operators
+- String interpolation
+- Arrays
+- Dictionaries
+- Conditional statements
+- Loops
+- Switch case
+
+## Day 13 
+**Review Day**
+Following topics are reviewed today
+- Functions
+- Optionals
+- Optional Chaining
+- Enumerations
+- Structs
+- Classes
+
+## Day 14
+
 # Contact 
 Twitter : [@ankur_codes](https://twitter.com/ankur_codes) \
 Email   : [Ankur Wasnik](mailto:ankurwasnik@icloud.com)
